@@ -11,6 +11,6 @@ Program ini adalah aplikasi buku nilai digital. Tugasnya membantu kamu mencatat 
 - Bonus Matematika: Bisa menghitung angka Faktorial dan Fibonacci.
 
 ## Cara Menjalankan (Simple):
-Kompilasi (Bungkus Kode): Ketik ```shgcc nama_file.c -o``` program di terminal.
-Jalankan: Ketik ./program (Linux/Mac) atau program.exe (Windows).  
-Gunakan: Pilih angka 1 untuk isi data, lalu angka 2 untuk melihat hasilnya.
+1. Kompilasi (Bungkus Kode): Ketik ```sh gcc nama_file.c -o``` program di terminal.
+2. Jalankan: Ketik ```sh ./program``` (Linux/Mac) atau program.exe (Windows).  
+3. Gunakan: Pilih angka 1 untuk isi data, lalu angka 2 untuk melihat hasilnya.
